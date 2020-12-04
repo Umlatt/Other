@@ -1,2 +1,2 @@
 # Other
-For when stuff needs doing, but that stuff is just random
+For when stuff needs a place to go, but that stuff is just random
